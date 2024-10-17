@@ -1,0 +1,63 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 100px;
+    background-color: #f4f4f4
+    
+}
+
+h1{
+    text-align: center;
+    color: rgb(37, 5, 68);
+}
+.resumeForm{
+    display: flex;
+    background-color: white;
+    width: 60%; 
+    margin: 0 auto;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0.1); 
+   
+}
+
+h1{
+    font-size: 24px;
+    margin: 10px 0;
+    margin-bottom: 30px;
+    text-align: center;
+}
+h3{
+    font-size: 18px;
+    padding: 2%;
+    margin: 20px 0 10px;
+    color: black;
+    border-radius: 10px;
+    box-shadow: 0 0 15px cornflowerblue;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+ul{
+    list-style-type: fill round;
+    padding: 10;
+    margin: 10px 0;
+}
+ .right-part{
+    padding: 20px;
+    width: 85%;
+    margin: 10px; 
+
+} 
+
+button{
+    box-shadow: 0 0 15px rgb(179, 218, 236);
+    border-radius: 10px;
+    cursor: pointer;
+    margin-top: 5px;
+    margin-left: 30px;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+button:hover{
+    background-color: cornflowerblue;
+}
